@@ -1,6 +1,9 @@
 import os
 
-# specify the directory where the files are located
+#This script will rename files in a given folder by removing the ".template" extension, while preserving the original file name.
+
+
+# specify the directory where your Eco server Config files are located
 directory = '/path/to/folder'
 
 # use os.listdir() to get a list of all files in the directory
