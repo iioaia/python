@@ -1,6 +1,10 @@
 import os
 
-#This script will rename files in a given folder by removing the ".template" extension, while preserving the original file name.
+# Useful if you already have Python installed on your computer.
+
+# Place this script inside your Eco Server Config Folder \eco server\Configs
+
+#This script will rename files in a the folder by removing the ".template" extension, while preserving the original file name.
 
 
 # specify the directory where your Eco server Config files are located
